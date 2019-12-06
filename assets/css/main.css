@@ -2646,10 +2646,12 @@ input, select, textarea {
 
 	.skills {
 		display: flex;
-		justify-content: space-around;
+		justify-content: center;
 		flex-flow: wrap;
 	}
 
 	.skills .skill-icon {
 		width: 100px;
+		padding-left: 20px;
+		padding-bottom: 20px;
 	}
